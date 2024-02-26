@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dibyanshu Kiro</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirodk&label=Profile%20views&color=0e75b6&style=flat" alt="kirodk" /> </p>
 
@@ -9,11 +9,17 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
+- 👯 I’m looking to collaborate on [Blog CRUD App](https://github.com/kiroDK/blog-CRUD-app)
+
+- 🤝 I’m looking for help with [Pizza Crust](https://github.com/kiroDK/pizzaCrust)
+
 - 💬 Ask me about **Web Dev**
 
 - 📫 How to reach me **www.dibyanshukiro007@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DmrDxzkgdzKWr6DOqeQ9UO4y4seHtu1t/view?usp=sharing](https://drive.google.com/file/d/1DmrDxzkgdzKWr6DOqeQ9UO4y4seHtu1t/view?usp=sharing)
+
+- ⚡ Fun fact **I play a lot of PC Games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
